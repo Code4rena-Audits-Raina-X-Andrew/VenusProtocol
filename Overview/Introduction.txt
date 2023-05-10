@@ -3,3 +3,5 @@ Contest Link : https://code4rena.com/contests/2023-05-venus-protocol-isolated-po
 This is a decetralized lending pool. A decetralized lending pool is similar to normal lending pool that are offered by the banks but in this 
 case crypto pool offer the loans on a P2P basis .
 
+Beacon Proxy Delpoyed at this line : https://github.com/code-423n4/2023-05-venus/blob/8be784ed9752b80e6f1b8b781e2e6251748d0d7e/contracts/Pool/PoolRegistry.sol#L228
+
