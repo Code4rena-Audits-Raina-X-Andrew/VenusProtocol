@@ -1,0 +1,2 @@
+Venus isolated pools give the users more risk management by adding certain configuration in the tokens that help in managing the 
+volatility of the listed tokens 

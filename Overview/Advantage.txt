@@ -1,0 +1,7 @@
+The first genreation of lending pools use very lack in some ways that are : 
+
+1)  The use of tokens and other assets is risky as there are a lot of assets that are very risky and hence in turn 
+generate a lot of risk for the people that want to earn some yield on their deposits 
+
+2) Listing of custom tokens is also very difficult because of the lack of risk parameters that further help to manage the risk or
+the volatility of that token 
